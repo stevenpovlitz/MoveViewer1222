@@ -11,32 +11,32 @@ The following **required** functionality is complete:
 - [y] User can view a list of movies currently playing in theaters from The Movie Database.
 - [y] Poster images are loaded using the UIImageView category in the AFNetworking library.
 - [y] User sees a loading state while waiting for the movies API.
-- [y] User can pull to refresh the movie list.
+- [n] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
-- [ ] User sees an error message when there's a networking error.
-- [ ] Movies are displayed using a CollectionView instead of a TableView.
-- [ ] User can search for a movie.
-- [ ] All images fade in as they are loading.
+- [n] User sees an error message when there's a networking error.
+- [n] Movies are displayed using a CollectionView instead of a TableView.
+- [n] User can search for a movie.
+- [n] All images fade in as they are loading.
 - [y] Customize the UI.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [n] List anything else that you can get done to improve the app functionality!
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. I don't really get how most of this was done or why it was done so that'd be fantastic. felt like I was being lead and not taught, but I suppose understanding follows doing
-2. see point 1
+2. pull down refresh => pain and frustration
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-http://imgur.com/9OoWsIq
+http://imgur.com/cXKS9gx
 
-<img src='http://imgur.com/9OoWsIq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/cXKS9gx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
