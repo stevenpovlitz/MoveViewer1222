@@ -1,6 +1,6 @@
-# Project 1 - *MoviesMayI app v1.1*
+# Project 1 - *MoviesMayI app v1.2*
 
-**MoviesMayI app v1.1** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**MoviesMayI app v1.2** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 Time spent: **6** hours spent in total
 
@@ -11,7 +11,7 @@ The following **required** functionality is complete:
 - [y] User can view a list of movies currently playing in theaters from The Movie Database.
 - [y] Poster images are loaded using the UIImageView category in the AFNetworking library.
 - [y] User sees a loading state while waiting for the movies API.
-- [n] User can pull to refresh the movie list.
+- [y] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -34,9 +34,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-http://imgur.com/cXKS9gx
+http://imgur.com/Qi7
 
-<img src='http://imgur.com/cXKS9gx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/Qi7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
